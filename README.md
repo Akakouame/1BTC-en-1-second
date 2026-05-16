@@ -1,2 +1,5 @@
-# 1BTC-en-1-second
-Miner un BTC en une second est possible et réel 
+
+Application mobile d'earning crypto (BTC, LTC, ETH, BNB, HASH) - Tap-to-Earn + Staking
+
+
+
